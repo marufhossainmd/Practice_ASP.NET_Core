@@ -1,1 +1,1 @@
-# Practise ASP.NET Core Fundamentals
+# Practice ASP.NET Core Fundamentals
